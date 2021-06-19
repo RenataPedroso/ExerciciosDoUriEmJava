@@ -7,7 +7,7 @@ import java.util.Scanner;
  O programa retornará a média desses três valores, com uma casa decimal apenas.
  */
 
-public class Ex1005Media2 {
+public class Ex1006Media2 {
 
 	public static void main(String[] args) {
 
