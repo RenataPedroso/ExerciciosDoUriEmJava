@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Este programa realizará o cáculo do valor total que você deve pagar por uma determinada quantidade de dois produtos(peças).
 Inserir o código da primeira peça, a quantidade de peças, e o valor unitário de cada uma delas.
-Realizar o mesmo para a segunda peça.
+Realizar o mesmo para a segunda peça!
 */
 
 public class Ex1010CalculoSimples {
